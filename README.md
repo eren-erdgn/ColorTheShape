@@ -7,3 +7,6 @@ Project Members:
 Defne Oğuz
 https://github.com/Deefne 
 https://www.linkedin.com/in/defneoguz/
+
+Yaren Akdemir
+https://github.com/yarenakdemir
